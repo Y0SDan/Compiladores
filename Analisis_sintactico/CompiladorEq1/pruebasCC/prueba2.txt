@@ -1,0 +1,7 @@
+D T L
+id int float ; ,
+D -> TidL;
+L -> ,idL
+L -> 3
+T -> float
+T -> int
